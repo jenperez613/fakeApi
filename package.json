@@ -1,0 +1,25 @@
+{
+  "name": "fakeapi",
+  "version": "1.0.0",
+  "description": "fake api for dev",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jenperez613/fakeApi.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Jenna Perez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jenperez613/fakeApi/issues"
+  },
+  "homepage": "https://github.com/jenperez613/fakeApi#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
