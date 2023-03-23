@@ -138,5 +138,61 @@
         "text": "deploy to production once every month"
       }
     }
+  ],
+  "reactions" : [
+    {
+    "id":  "1",
+    "thumbsUp": "0",
+    "hooray": "1",
+    "heart": "0",
+    "rocket": "0",
+    "eyes": "0",
+    "question": "xj352vofupe1dqz9emx13r"
+    },
+    {
+    "id":  "2",
+    "thumbsUp": "1",
+    "hooray": "0",
+    "heart": "0",
+    "rocket": "3",
+    "eyes": "0",
+    "question": "vthrdm985a262al8qx3do"
+    },
+    {
+    "id":  "3",
+    "thumbsUp": "2",
+    "hooray": "0",
+    "heart": "0",
+    "rocket": "0",
+    "eyes": "0",
+    "question": "loxhs1bqm25b708cmbf3g"
+    },
+    {
+    "id":  "4",
+    "thumbsUp": "2",
+    "hooray": "0",
+    "heart": "4",
+    "rocket": "0",
+    "eyes": "1",
+    "question": "am8ehyc8byjqgar0jgpub9"
+    },
+    {
+    "id":  "5",
+    "thumbsUp": "0",
+    "hooray": "3",
+    "heart": "0",
+    "rocket": "1",
+    "eyes": "0",
+    "question": "6ni6ok3ym7mf1p33lnez"
+    },
+    {
+    "id":  "6",
+    "thumbsUp": "1",
+    "hooray": "1",
+    "heart": "3",
+    "rocket": "1",
+    "eyes": "2",
+    "question": "8xf0y6ziyjabvozdd253nd"
+    }
   ]
 }
