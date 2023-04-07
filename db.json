@@ -6,7 +6,7 @@
       "name": "Sarah Edo",
       "first_name": "Sarah",
       "last_name": "Edo",
-      "picture": "../assets/sara.jpg",
+      "picture": "https://i.pravatar.cc/600?img=48",
       "answers": {
         "8xf0y6ziyjabvozdd253nd": "optionOne",
         "6ni6ok3ym7mf1p33lnez": "optionOne",
@@ -24,7 +24,7 @@
       "name": "Tyler McGinnis",
       "first_name": "Tyler",
       "last_name": "McGinnis",
-      "picture": "../assets/tyler.jpg",
+      "picture": "https://i.pravatar.cc/600?img=58",
       "answers": {
         "vthrdm985a262al8qx3do": "optionOne",
         "xj352vofupe1dqz9emx13r": "optionTwo"
@@ -37,7 +37,7 @@
       "name": "Mike Tsamis",
       "first_name": "Mike",
       "last_name": "Tsamis",
-      "picture": "../assets/mike.jpg",
+      "picture": "https://i.pravatar.cc/600?img=55",
       "answers": {
         "xj352vofupe1dqz9emx13r": "optionOne",
         "vthrdm985a262al8qx3do": "optionTwo",
@@ -51,7 +51,7 @@
       "name": "Zenobia Oshikanlu",
       "first_name": "Zenobia",
       "last_name": "Oshikanlu",
-      "picture": "../assets/zenobia.jpg",
+      "picture": "https://i.pravatar.cc/600?img=16",
       "answers": {
         "xj352vofupe1dqz9emx13r": "optionOne"
       },
